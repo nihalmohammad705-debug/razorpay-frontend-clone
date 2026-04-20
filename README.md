@@ -17,27 +17,30 @@ This project is a frontend clone of the Razorpay website built using HTML and Ta
 
 ## 📁 Project Structure
 
-razorpay-clone/
-│
-├── index.html
-├── input.css
-├── output.css
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
-├── images/
-└── node_modules/ 
+├── input.css # Tailwind input CSS
+├── output.css # Compiled Tailwind CSS
+├── tailwind.config.js # Tailwind configuration
+├── postcss.config.js # PostCSS configuration
+├── package.json # Dependencies
+├── package-lock.json # Lock file
+├── images/ # Image assets
+│ ├── hero-image.png
+│ ├── feature-icons/
+│ └── payment-icons/
+└── node_modules/ # Dependencies (ignored)
 
 
 ## 📌 Note
 
-This is a frontend-only project. No backend functionality or payment processing is implemented.
+This is a frontend-only project. No backend functionality or payment processing is implemented. All buttons and links are non-functional and serve only as UI placeholders.
 
 ## 📚 Learning Outcomes
 
-* Understanding of modern UI development
-* Working with Tailwind CSS and utility-first styling
-* Basic project structuring for frontend applications
+- Understanding of modern UI development
+- Working with Tailwind CSS and utility-first styling
+- Basic project structuring for frontend applications
+- Responsive design principles
+- CSS Grid and Flexbox layouts
 
 ## ⚙️ Setup Instructions
 
@@ -50,7 +53,12 @@ This is a frontend-only project. No backend functionality or payment processing 
 
 ## 🔮 Future Improvements
 
-* Improve responsiveness for different screen sizes
-* Add interactivity using JavaScript
-* Enhance UI polish and animations
-* Implement backend functionalities and payment processing.
+Improve responsiveness for different screen sizes
+Add interactivity using JavaScript
+Enhance UI polish and animations
+Implement backend functionalities and payment processing
+Add dark mode support
+Convert to React.js for component reusability
+
+📝 License
+This project is for educational purposes only.
