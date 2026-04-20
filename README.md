@@ -60,10 +60,15 @@ This is a frontend-only project. No backend functionality or payment processing 
 ## 🔮 Future Improvements
 
 Improve responsiveness for different screen sizes
+
 Add interactivity using JavaScript
+
 Enhance UI polish and animations
+
 Implement backend functionalities and payment processing
+
 Add dark mode support
+
 Convert to React.js for component reusability
 
 📝 License
