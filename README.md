@@ -34,7 +34,7 @@ razorpay-clone/
 │   └── payment-icons/      # Payment method logos
 │
 └── node_modules/           # Dependencies (ignored)
-
+```
 
 ## 📌 Note
 
