@@ -17,17 +17,22 @@ This project is a frontend clone of the Razorpay website built using HTML and Ta
 
 ## 📁 Project Structure
 
-├── input.css # Tailwind input CSS
-├── output.css # Compiled Tailwind CSS
-├── tailwind.config.js # Tailwind configuration
-├── postcss.config.js # PostCSS configuration
-├── package.json # Dependencies
-├── package-lock.json # Lock file
-├── images/ # Image assets
-│ ├── hero-image.png
-│ ├── feature-icons/
-│ └── payment-icons/
-└── node_modules/ # Dependencies (ignored)
+razorpay-clone/
+│
+├── index.html              # Main HTML file
+├── input.css               # Tailwind input CSS
+├── output.css              # Compiled Tailwind CSS
+├── tailwind.config.js      # Tailwind configuration
+├── postcss.config.js       # PostCSS configuration
+├── package.json            # Dependencies
+├── package-lock.json       # Lock file
+│
+├── images/                 # Image assets
+│   ├── hero-image.png      # Hero section image
+│   ├── feature-icons/      # Feature section icons
+│   └── payment-icons/      # Payment method logos
+│
+└── node_modules/           # Dependencies (ignored)
 
 
 ## 📌 Note
