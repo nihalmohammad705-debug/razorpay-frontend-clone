@@ -16,7 +16,7 @@ This project is a frontend clone of the Razorpay website built using HTML and Ta
 * PostCSS
 
 ## 📁 Project Structure
-'''text
+```text
 razorpay-clone/
 │
 ├── index.html              # Main HTML file
