@@ -42,15 +42,20 @@ This is a frontend-only project. No backend functionality or payment processing 
 ## ⚙️ Setup Instructions
 
 1. Clone the repository
+
+   - git clone https://github.com/nihal705/razorpay-frontend-clone
+
 2. Install dependencies:
+
    npm install
 
 3. Run the project:
+
    npm run start
 
 ## 🔮 Future Improvements
 
-* Improve responsiveness for different screen sizes
-* Add interactivity using JavaScript
-* Enhance UI polish and animations
-* Implement backend functionalities and payment processing.
+- Improve responsiveness for different screen sizes
+- Add interactivity using JavaScript
+- Enhance UI polish and animations
+- Implement backend functionalities and payment processing.
